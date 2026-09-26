@@ -214,4 +214,4 @@ CoolReader is available as a full free version, which includes all features and 
 Start your reading journey today! Download CoolReader for an exceptional eBook experience on your Windows PC.
 
 ---
-**Last updated:** 2026-09-26 01:22:22 UTC
+**Last updated:** 2026-09-26 07:24:34 UTC
